@@ -1,5 +1,7 @@
 # repo-template
 
+This repository is a throwaway test for agentic-templates/repo-template#427, and a maintainer deletes it after the test.
+
 Start a GitHub project where people and coding agents follow the same rules to plan, build and release it. Every change goes from an issue to a branch to a pull request. You don't need to review each pull request. You approve the issues before agents build them, or ask an agent for a change yourself. Either way, the agent's pull request merges once its checks pass. Agents approve one kind of issue themselves: a bug that they find and reproduce while they work on another issue.
 
 The template works with any language, and with any coding tool that runs the hooks set up in `.claude/settings.json` or `.codex/hooks.json`. Agents follow `AGENTS.md` and the guides it links to in `docs/`.
